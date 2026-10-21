@@ -1,0 +1,13 @@
+identifiant,nom,espece,age,poids,enclos,statut_sante
+A001,Simba,Loup,12,190.5,Savane,Bon
+A002,Maléfique,Lion,9,125.0,Savane,Bon
+A003,Mufasa,Tigre,16,210.0,Savane,Sous surveillance
+A004,Fanfan,Éléphant,35,4800.0,Savane,Bon
+A005,Babara,Hypopotame,22,4200.5,Savane,Malade
+A006,Gina,Girafe,14,820.0,Plaine,Bon
+A007,Marius,Lièvre,7,760.0,Plaine,Bon
+A008,Loulou,Singe,5,11.5,Forêt,Bon
+A009,Kiki,Loup,18,13.2,Forêt,Sous surveillance
+A010,Moche,Singe,25,15.0,Forêt,Malade
+A011,Zéphyr,Zèbre,10,350.0,Plaine,Bon
+A012,Tikabrit,Chèvre,3,210.0,Plaine,Bon
